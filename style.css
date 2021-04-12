@@ -1,0 +1,71 @@
+
+body{
+    width: 960px;
+    margin: 40px auto 40px auto;
+    line-height: 1.2;
+}
+header{
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.natural{
+    overflow: hidden;
+}
+.natural img{
+    width: 700px;
+    float: left;
+    position: relative;
+    z-index: -1;
+    margin-bottom: 40px;
+}
+
+.natural h2{
+    float: right;
+    width: 360px;
+    font-size: 64px;
+    margin: 150px 0 0 -100px ;
+    z-index: 20;
+}
+
+.onething img{
+    width: 600px;
+    float: right;
+    position: relative;
+    z-index: -1;
+}
+
+.onething div{
+ font-size: 32px;
+ float: left;
+ width: 510px;
+ margin: 40px -150px 0 0;
+}
+
+.onething P{
+    margin-bottom: 10px;
+}
+.onething h3{
+    margin-bottom: 10px;
+}
+.onething{
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+.lookbook{
+    background-image: url(assets/image_3.jpg);
+    background-size: cover;
+    height: 540px;
+    text-align: center;
+    font-size: 64px;
+    color: #fff;
+    background-position: center;
+    overflow: hidden;
+    padding: 230px 0 0 0; 
+    font-weight: 700;
+    margin: 0;
+    box-sizing:border-box;
+    
+}
+
